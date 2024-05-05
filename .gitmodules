@@ -1,0 +1,3 @@
+[submodule "app/renderer/src/main"]
+	path = app/renderer/src/main
+	url = git@github.com:sothx/remote-desk-web.git
